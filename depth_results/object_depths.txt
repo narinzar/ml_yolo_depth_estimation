@@ -1,0 +1,9 @@
+Object Detection and Depth Results:
+---------------------------------
+Point cloud 3D file: depth_results/point_cloud.ply
+
+Object 1: microwave
+  Confidence: 0.89
+  Position: (23, 11) to (239, 150)
+  Depth: 22.9
+

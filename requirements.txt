@@ -2,3 +2,9 @@ numpy
 pandas
 python-dotenv
 ipykernel
+torch 
+torchvision 
+transformers 
+ultralytics 
+gradio 
+plyfile
